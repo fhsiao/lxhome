@@ -22,6 +22,8 @@ nnoremap <space> za
 " move vertically by visual line
 nnoremap j gj
 nnoremap k gk
+" highlight last inserted text
+nnoremap gV `[v`]
 
 
 
